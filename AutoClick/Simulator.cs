@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using GalaScript.Interfaces;
+using GalaScript.Abstract;
 using GalaScript;
 using WindowsInput;
 using System.Windows;
